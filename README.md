@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá <img align="top" src="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" width="27" />
 
-<!--
-**jlima32/jlima32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify">
+Meu nome é ***Juan Lima***, um entusiasta da tecnologia que está trilhando os primeiros passos no mundo da programação. Meu foco principal está em aprender e aprimorar minhas habilidades em HTML, CSS, JavaScript e novas tecnologias. Estou animado para compartilhar minha evolução e aprendizado aqui no GitHub.
+</p>
+<br>
 
-Here are some ideas to get you started:
+**<p align="justify">Tecnologias que tenho conhecimento e/ou estou aprendendo:</p>**
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a> 
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perfil
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlima32&show_icons=true&theme=dracula&locale=pt-br" alt="jlima32" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlima32&show_icons=true&theme=dracula&locale=pt-br" alt="jlima32" /></p>
