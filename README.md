@@ -1,7 +1,7 @@
 ## Olá <img align="top" src="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" width="27" />
 
 <p align="justify">
-Meu nome é <em><b>Juan Lima</b></em>, um entusiasta da tecnologia que está trilhando os primeiros passos no mundo da programação. Meu foco principal está em aprender e aprimorar minhas habilidades em HTML, CSS, JavaScript e novas tecnologias. Estou animado para compartilhar minha evolução e aprendizado aqui no GitHub.
+Meu nome é <em><b>Juan Lima</b></em>, um entusiasta da tecnologia que está trilhando os primeiros passos no mundo da programação. Meu foco está em aprender e aprimorar minhas habilidades em HTML, CSS, JavaScript e novas tecnologias. Estou animado para compartilhar minha evolução e aprendizado aqui no GitHub.
 </p>
 <br>
 
