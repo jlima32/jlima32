@@ -21,11 +21,5 @@ Meu nome é <em><b>Juan Lima</b></em>, um entusiasta da tecnologia que está tri
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlima32&show_icons=true&theme=dracula&locale=pt-br" alt="jlima32" /></p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 
