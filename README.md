@@ -17,7 +17,7 @@ Meu nome é <em><b>Juan Lima</b></em>, um entusiasta da tecnologia que está tri
 
 ## Perfil
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jlime32&show_icons=true&theme=dracula" alt="jlima32" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jlima32&show_icons=true&theme=dracula" alt="jlima32" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlima32&theme=dracula" alt="jlima32" /></p>
 
 
