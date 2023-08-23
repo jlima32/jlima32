@@ -19,3 +19,6 @@ Meu nome é <em><b>Juan Lima</b></em>, um entusiasta da tecnologia que está tri
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlima32&show_icons=true&theme=dracula&locale=pt-br" alt="jlima32" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlima32&show_icons=true&theme=dracula&locale=pt-br" alt="jlima32" /></p>
+
+
+![Snake animation](https://github.com/jlima32/jlima32/blob/output/github-contribution-grid-snake.svg)
